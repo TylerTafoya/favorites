@@ -10,5 +10,10 @@ These are the best!
 ## Best bears
 
 - Koala
-- Polar
-- Grizzly
+- Black
+
+## Other animals
+
+-shark
+-bird
+
